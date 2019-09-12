@@ -39,7 +39,7 @@ Now normally go with the flow and test the action. :)
 
 
 ## Demo Video
-![Demo. Miss Lily](https://i.ibb.co/YtbcQdN/MissLily.gif)
++<img src="/screenshots/MissLily.gif?raw=true">
 
 ## Future Plans
 ![](https://img.shields.io/badge/collaboration-open-purple)  ![](https://img.shields.io/badge/suggestion-open-purple) ![](https://img.shields.io/badge/build-up%20for%20development-blue.svg?logo=appveyor) ![](https://img.shields.io/badge/current%20status-still%20developing-green?logo=visual-studio-code)
