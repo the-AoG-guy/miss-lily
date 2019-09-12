@@ -30,16 +30,16 @@ Now normally go with the flow and test the action. :)
 <img src='https://i.ibb.co/qBgMLqt/Screenshot-20190913-033002.jpg' style="float: left; margin-right: 10px;" width='200' />
 
 4. Reminders to follow the fitness routine.
-<img src='https://i.ibb.co/8rN9QPD/Screenshot-20190913-033119.jpg' style="float: left; margin-right: 10px;" height="420" width='200' /> <img src='https://i.ibb.co/qRxnZCS/Screenshot-20190913-033134.jpg' style="float: left; margin-right: 10px;" height="420" width='200' /> <img src='https://i.ibb.co/8s9MsRZ/Screenshot-20190912-200217.jpg' style="float: left; margin-right: 10px;" height="420" width='200' />
+<img src='https://i.ibb.co/8rN9QPD/Screenshot-20190913-033119.jpg' style="float: left; margin-right: 10px;" height="420" width='200' /><img src='https://i.ibb.co/qRxnZCS/Screenshot-20190913-033134.jpg' style="float: left; margin-right: 10px;" height="420" width='200' /><img src='https://i.ibb.co/8s9MsRZ/Screenshot-20190912-200217.jpg' style="float: left; margin-right: 10px;" height="420" width='200' />
 
 
 5. Schedule medicine.
-<img src='https://i.ibb.co/VQ3B73z/Screenshot-20190913-033239.jpg' style="float: left; margin-right: 10px;" height="420" width='200' /> <img src='https://i.ibb.co/Gp1DJJH/Screenshot-20190912-194331.jpg' style="float: left; margin-right: 10px;" height="420"  width='200' />
+<img src='https://i.ibb.co/VQ3B73z/Screenshot-20190913-033239.jpg' style="float: left; margin-right: 10px;" height="420" width='200' /><img src='https://i.ibb.co/Gp1DJJH/Screenshot-20190912-194331.jpg' style="float: left; margin-right: 10px;" height="420"  width='200' />
 
 
 
 ## Demo Video
-+<img src="/screenshots/MissLily.gif?raw=true">
+<img src="/screenshots/MissLily.gif?raw=true">
 
 ## Future Plans
 ![](https://img.shields.io/badge/collaboration-open-purple)  ![](https://img.shields.io/badge/suggestion-open-purple) ![](https://img.shields.io/badge/build-up%20for%20development-blue.svg?logo=appveyor) ![](https://img.shields.io/badge/current%20status-still%20developing-green?logo=visual-studio-code)
