@@ -10,8 +10,8 @@ Miss Lily is your personal health-mate. She is here to assist you to lead a heal
 
  1. Go to the [Actions Console Simulator](https://console.actions.google.com/project/miss-lily-2e318/simulatorcreate?isDeepLink).
  2. Log in using the following credentials :
-    `Email:` `the.real.miss.lily@gmail.com`
-    `Password:` `aSTRONGpassword`
+    **`Email:`** `the.real.miss.lily@gmail.com`
+    **`Password:`** `aSTRONGpassword`
 
 3. After you log in click on `Talk to Ms. Lily`![Simulator Page](https://i.ibb.co/HnLcxxL/Testing-Instruction-for-the-project.jpg)
 
@@ -30,6 +30,9 @@ Now normally go with the flow and test the action. :)
 4. Reminders to follow the fitness routine.
 
 5. Schedule medicine.
+
+## Sample Screenshots
+
 
 
 ## Demo Video
