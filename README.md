@@ -35,7 +35,7 @@ Now normally go with the flow and test the action. :)
 
 ## Sample Screenshots
 
-<img src="/screenshots/diseaseList.jpg?raw=true" alt="Disease-Specific Help" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/dietContent.jpg?raw=true" alt="Protein Content in Common Food Items" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/.jpg?raw=true" alt="What can I do?" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/medicineNotification.jpg?raw=true" alt="Daily reminder by notification" style="float: left; margin-right: 20px;" width='200' border="2" /> 
+<img src="/screenshots/diseaseList.jpg?raw=true" alt="Disease-Specific Help" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/dietContent.jpg?raw=true" alt="Protein Content in Common Food Items" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/help.jpg?raw=true" alt="What can I do?" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/medicineNotification.jpg?raw=true" alt="Daily reminder by notification" style="float: left; margin-right: 20px;" width='200' border="2" /> 
 
 ## Demo Video
 <img src="/screenshots/MissLily.gif?raw=true">
