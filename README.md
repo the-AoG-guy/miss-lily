@@ -38,7 +38,7 @@ Now normally go with the flow and test the action. :)
 <img src="/screenshots/diseaseList.jpg?raw=true" alt="Disease-Specific Help" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/dietContent.jpg?raw=true" alt="Protein Content in Common Food Items" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/help.jpg?raw=true" alt="What can I do?" style="float: left; margin-right: 20px;" width='200' border="2" /> <img src="/screenshots/medicineNotification.jpg?raw=true" alt="Daily reminder by notification" style="float: left; margin-right: 20px;" width='200' border="2" /> 
 
 ## Demo Video
-<img src="/screenshots/MissLily.gif?raw=true">
+<img src="/screenshots/MissLilyDemo.gif?raw=true">
 
 ## Future Plans
 ![](https://img.shields.io/badge/collaboration-open-purple)  ![](https://img.shields.io/badge/suggestion-open-purple) ![](https://img.shields.io/badge/build-up%20for%20development-blue.svg?logo=appveyor) ![](https://img.shields.io/badge/current%20status-still%20developing-green?logo=visual-studio-code)
