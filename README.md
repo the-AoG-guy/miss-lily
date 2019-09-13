@@ -9,17 +9,19 @@ Miss Lily is your personal health-mate. She is here to assist you to lead a heal
 ## Testing Instructions
 
  1. Go to the [Actions Console Simulator](https://console.actions.google.com/project/miss-lily-2e318/simulatorcreate?isDeepLink).
- 2. Log in using the following credentials :
-    **`Email:`** `the.real.miss.lily@gmail.com`
+ 2. Log in using the following credentials :  <br/>
+    
+    **`Email:`** `the.real.miss.lily@gmail.com`  
     **`Password:`** `aSTRONGpassword`
 
-3. After you log in click on `Talk to Ms. Lily`![Simulator Page](https://i.ibb.co/HnLcxxL/Testing-Instruction-for-the-project.jpg)
+3. After you log in click on `Talk to Ms. Lily` <br/>  
+![Simulator Page](https://i.ibb.co/HnLcxxL/Testing-Instruction-for-the-project.jpg)
 
 The display part of the simulator shows how the action will look when opened on a mobile phone or any other screen which supports Google Assistant when deployed.
 
 Now normally go with the flow and test the action. :)
 
-## Features and Screenshots
+## Features
 
 1. Disease Specific assistance.
 
@@ -33,6 +35,7 @@ Now normally go with the flow and test the action. :)
 
 ## Sample Screenshots
 
+<img src="/screenshots/?raw=true" style="float: left; margin-right: 10px;" width='200' />
 
 
 ## Demo Video
