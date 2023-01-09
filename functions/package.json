@@ -16,8 +16,8 @@
     "actions-on-google": "^2.0.0",
     "bmi-calc": "^2.0.0",
     "convert-units": "^2.3.4",
-    "firebase-admin": "8.0.0",
-    "firebase-functions": "^3.0.2"
+    "firebase-admin": "11.4.1",
+    "firebase-functions": "^3.24.1"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.1.6"
